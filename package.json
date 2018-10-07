@@ -1,0 +1,20 @@
+{
+  "name": "50images",
+  "version": "1.0.0",
+  "description": "50images displays images from 5 collections using the [Unsplash API](https://unsplash.com/developers). It retrieves 10 images for each collection and display them. Clicking on the image displays them in a modal.",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRbsas/50images.git"
+  },
+  "author": "PRbsas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRbsas/50images/issues"
+  },
+  "homepage": "https://github.com/PRbsas/50images#readme"
+}
