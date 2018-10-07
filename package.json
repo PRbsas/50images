@@ -4,7 +4,7 @@
   "description": "50images displays images from 5 collections using the [Unsplash API](https://unsplash.com/developers). It retrieves 10 images for each collection and display them. Clicking on the image displays them in a modal.",
   "main": "index.js",
   "scripts": {
-    "start": "open index.html",
+    "start": "open src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
